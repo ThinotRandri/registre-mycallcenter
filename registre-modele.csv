@@ -1,6 +1,8 @@
 ref;traitement;finalite;base_legale;categories_donnees;personnes_concernees;destinataires;duree_conservation;mesures_securite
 OP-01;Enregistrement de l appel telephonique;Preuve de l appel et controle de la qualite;Interet legitime;Voix, identite, vie personnelle (habitudes de consommation);Prospect appele;Service qualite, client commanditaire;A definir;Acces restreint au service qualite
-OP-02;Saisie des rÃ©ponses et stockage dans la base de donnÃ©es (Ã©tape 2 du
-dÃ©roulÃ©)
-OP-03;RÃ©Ã©coute et archivage des enregistrements audio sur le serveur de
-fichiers (Ã©tape 3 du dÃ©roulÃ©)
+OP-02;Saisie des rÃ©ponses et stockage dans la base de donnÃ©es (Ã©tape 2 du;Réaliser l'étude de marché;Identité(nom,coordonnées),vie personnelle (achats), vie profesionnelle (profession);Prospect;Pôle Données;;;
+dÃ©roulÃ©);;;;;;;;
+OP-03;RÃ©Ã©coute et archivage des enregistrements audio sur le serveur de;Contrôler la qualité de l'entretien;Identité (voix) vie personnelle;Prospect;Services qualité;;;
+fichiers (Ã©tape 3 du dÃ©roulÃ©);;;;;;;;
+OP-04;Analyse des réponses et production de la synthèse;Produire les résultats de l'étude;"En entrée: réponses individuelles; en sortie; statistiques agrégées";Prospect;Pôle Données;;;
+OP-05;Transmission de la synthèse au client;Livrer l'étude commandée;Statistiques agrégées;Aucune, si l'agrégation est réelle;Client commantaire;;;
